@@ -1,15 +1,6 @@
 # Info-Bot
 
-A telegram user or chat information finder bot.
-
----
-
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Info-Bot/blob/main/LICENSE
-```
+A telegram user or chat information information 
 
 ---
 
@@ -20,7 +11,7 @@ License -> https://github.com/FayasNoushad/Info-Bot/blob/main/LICENSE
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Info-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/disneyteam76/Info-Bot/tree/patch-1">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -32,7 +23,7 @@ License -> https://github.com/FayasNoushad/Info-Bot/blob/main/LICENSE
 <br/>
 
 ```sh
-git clone https://github.com/FayasNoushad/Info-Bot/tree/main
+git clone https://github.com/disneyteam76/Info-Bot/tree/main
 cd Info-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -56,8 +47,3 @@ python3 main.py
 </details>
 
 ---
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
