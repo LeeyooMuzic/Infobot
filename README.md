@@ -11,7 +11,7 @@ A telegram user or chat information information
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/disneyteam76/Info-Bot/tree/patch-1">
+  <a href="https://heroku.com/deploy?template=https://github.com/disneyteam77/Info-Bot/tree/patch-1">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
